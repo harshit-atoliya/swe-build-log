@@ -1,5 +1,12 @@
 # Zero to Hired — Daily Log
 
+## Day 22 — Oct 24, 2026
+- Back to work after a long break due to some family issues, which is why I was away for so many days.
+- Today I restarted my learning routine and focused on Python revision to get back into momentum.
+- Revision covered: Python basics, syntax refresh, variables, data types, loops, conditionals, functions, and problem-solving mindset.
+- Felt a bit rusty at first, but I pushed through and got back into the habit of coding and learning again.
+- Goal for the next few days: continue the Python revision consistently and then move back into project work without losing momentum.
+
 ## Day 21 — Sep 21, 2026
 - Off day: took a break from study and coding to rest and recharge.
 - No major progress on the technical track today; kept it light and focused on recovery.
@@ -17,7 +24,7 @@
 - Progress: started Flask, explored routing, and got a minimal app running, but the real Flask agenda is still incomplete.
 - Friday included: auto-launch on login via a `.bat` file, greeting + task listing, opening VS Code/Claude/Gemini/ChatGPT, and background music. `pyttsx3` was attempted and abandoned after it kept failing.
 - Environment: Python was downgraded to 3.12 for compatibility, and this should be checked to confirm whether it was limited to a separate venv or changed the system install.
-- Reflection: today was a real example of drifting off the assigned track. Flask was the actual task, but an exciting side project took over the day. The Flask work still needs to be finished before anything else.
+- Reflection: today was a real example of drifting off the assigned track. Flask was the actual task, but an exciting side project took over the day. The Flask work still needs to be finished before another side feature is allowed.
 
 ## Day 17 — Sep 17, 2026
 - Learned: `INNER JOIN`, aggregates (`SUM`, `AVG`, `MAX`, `MIN`, `COUNT`), `ORDER BY` (ASC/DESC), `GROUP BY`; importing `sqlite3` and creating a connection; SQLite's limited support for modifying columns.
