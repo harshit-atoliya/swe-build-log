@@ -1,5 +1,15 @@
 ## swe-build-log
 
+## Day 23 — Oct 25, 2026
+- Today I revisited the basic fundamentals of web development and learned the core concepts behind how the internet works: what a browser is, what a server does, what a request is, what a URL is, and how HTTP/HTTPS work.
+- I also learned the basic idea of a response from the server and how the client receives it.
+- Set up a virtual environment for Flask and started understanding the environment needed to run a Flask app properly.
+- Tried to work on DSA on my own, but I was not able to solve it successfully at first, which reminded me that I still need more practice and consistency in problem-solving.
+- Revised SQLBolt and completed some SQL exercises to strengthen my fundamentals.
+- Also revised SQLite and practiced making a connection and running queries in Python.
+- I started quant practice today and solved 10 percentage-based problems to build consistency in arithmetic and aptitude work.
+- Overall, it was a productive day of revision and fundamentals: web basics, Flask setup, SQL practice, and quant revision.
+
 ## Day 22 — Oct 24, 2026
 - Back to work after a long break due to some family issues, which is why I was away for so many days.
 - Today I restarted my learning routine and focused on Python revision to get back into momentum.
@@ -22,12 +32,12 @@
 ## Day 18 — Sep 18, 2026
 - Main focus: Flask and backend basics, but the day drifted into a side build: "Friday" — a voice assistant using wake-word detection, speech-to-text, TTS, and app launching.
 - Progress: started Flask, explored routing, and got a minimal app running, but the real Flask agenda is still incomplete.
-- Friday included: auto-launch on login via a `.bat` file, greeting + task listing, opening VS Code/Claude/Gemini/ChatGPT, and background music. `pyttsx3` was attempted and abandoned after it kept failing.
+- Friday included: auto-launch on login via a `.bat` file, greeting + task listing, opening VS Code/Claude/Gemini/ChatGPT, and background music. `pyttsx3` was attempted and abandoned after it kept fai[...]
 - Environment: Python was downgraded to 3.12 for compatibility, and this should be checked to confirm whether it was limited to a separate venv or changed the system install.
-- Reflection: today was a real example of drifting off the assigned track. Flask was the actual task, but an exciting side project took over the day. The Flask work still needs to be finished before another side feature is allowed.
+- Reflection: today was a real example of drifting off the assigned track. Flask was the actual task, but an exciting side project took over the day. The Flask work still needs to be finished before a[...]
 
 ## Day 17 — Sep 17, 2026
-- Learned: `INNER JOIN`, aggregates (`SUM`, `AVG`, `MAX`, `MIN`, `COUNT`), `ORDER BY` (ASC/DESC), `GROUP BY`; importing `sqlite3` and creating a connection; SQLite's limited support for modifying columns.
+- Learned: `INNER JOIN`, aggregates (`SUM`, `AVG`, `MAX`, `MIN`, `COUNT`), `ORDER BY` (ASC/DESC), `GROUP BY`; importing `sqlite3` and creating a connection; SQLite's limited support for modifying colu[...]
   
 - Built: Word Guessing Game
   
