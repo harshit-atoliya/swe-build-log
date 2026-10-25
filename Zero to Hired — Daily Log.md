@@ -1,4 +1,4 @@
-# Zero to Hired — Daily Log
+## swe-build-log
 
 ## Day 22 — Oct 24, 2026
 - Back to work after a long break due to some family issues, which is why I was away for so many days.
