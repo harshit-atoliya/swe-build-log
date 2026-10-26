@@ -1,7 +1,13 @@
 ## swe-build-log
 
+## Day 24 — Oct 26, 2026
+- Today I learned the basic syntax of Flask and how a simple Flask app is structured.
+- I practiced 5 percentage-based questions to improve my arithmetic and speed.
+- I also learned how to use Claude Code for free using Ollama, including the idea of running local AI models without depending on the paid cloud version.
+- Overall, it was a productive day focused on backend basics, quant practice, and exploring a local AI workflow.
+
 ## Day 23 — Oct 25, 2026
-- Today I revisited the basic fundamentals of web development and learned the core concepts behind how the internet works: what a browser is, what a server does, what a request is, what a URL is, and how HTTP/HTTPS work.
+- Today I revisited the basic fundamentals of web development and learned the core concepts behind how the internet works: what a browser is, what a server does, what a request is, what a URL is, and [...]
 - I also learned the basic idea of a response from the server and how the client receives it.
 - Set up a virtual environment for Flask and started understanding the environment needed to run a Flask app properly.
 - Tried to work on DSA on my own, but I was not able to solve it successfully at first, which reminded me that I still need more practice and consistency in problem-solving.
