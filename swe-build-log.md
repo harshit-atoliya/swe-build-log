@@ -1,5 +1,15 @@
 ## swe-build-log
 
+## Day 26 — Oct 28, 2026
+- Today I revised class property decorators and practiced how `@property` works in Python for controlled attribute access.
+- I also practiced percentage exercises to improve my speed and accuracy in arithmetic problems.
+- I revisited how getters and setters help with encapsulation and validation inside class design.
+- Overall, it was a focused revision session on Python OOP fundamentals, decorator-based property handling, and percentage practice.
+
+## Day 25 — Oct 27, 2026
+- Practiced percentage exercises to improve my arithmetic speed and accuracy.
+- Kept the revision light but consistent, focusing on problem-solving practice and confidence-building.
+
 ## Day 24 — Oct 26, 2026
 - Today I learned the basic syntax of Flask and how a simple Flask app is structured.
 - I practiced 5 percentage-based questions to improve my arithmetic and speed.
