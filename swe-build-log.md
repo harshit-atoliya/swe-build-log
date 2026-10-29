@@ -1,5 +1,8 @@
 ## swe-build-log
 
+## Day 27 — Oct 29, 2026
+- Just A Day Off
+  
 ## Day 26 — Oct 28, 2026
 - Today I revised class property decorators and practiced how `@property` works in Python for controlled attribute access.
 - I also practiced percentage exercises to improve my speed and accuracy in arithmetic problems.
