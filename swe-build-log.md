@@ -1,25 +1,4 @@
 ## swe-build-log
-
-## Day 33 — Nov 04, 2026
-- Last Day Off
-
-## Day 32 — Nov 03, 2026
-- Last Day Off
-
-## Day 31 — Nov 02, 2026
-- Last Day Off
-
-## Day 30 — Nov 01, 2026
-- Just another Day Off
-
-## Day 29 — Oct 31, 2026
-- Just another Day Off
-
-## Day 28 — Oct 30, 2026
-- Just another Day Off
-
-## Day 27 — Oct 29, 2026
-- Just A Day Off
   
 ## Day 26 — Oct 28, 2026
 - Today I revised class property decorators and practiced how `@property` works in Python for controlled attribute access.
