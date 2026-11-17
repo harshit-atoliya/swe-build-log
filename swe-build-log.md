@@ -1,7 +1,7 @@
 ## swe-build-log
 
 ## Day 27 - Nov 17, 2026
--I know that I am not giving my 100% , I am not giving 10% of effort, and I feel very unsatisfied with that , once I was the guy that give his 100% in everything and know when I know that coding and a job is the only thing that can save our life, we have no other option or backup , but still I somehow can't give my 100% or even 10% , but still I am trying to remove my bad habits , and changing the trajectory of my life, today is my day one of a 90 days challenge and a promise which I made to myself.
+- I know that I am not giving my 100% , I am not giving 10% of effort, and I feel very unsatisfied with that , once I was the guy that give his 100% in everything and know when I know that coding and a job is the only thing that can save our life, we have no other option or backup , but still I somehow can't give my 100% or even 10% , but still I am trying to remove my bad habits , and changing the trajectory of my life, today is my day one of a 90 days challenge and a promise which I made to myself.
 - Today I learnt about rendring_template , I learn how to render html template, and how to pass variables to html and use conditionals , and loops in it .
   
 ## Day 26 — Oct 28, 2026
